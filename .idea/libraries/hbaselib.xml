@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hbaselib">
+    <CLASSES>
+      <root url="file://D:/王键/安装包/jar包/hbaselib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/王键/安装包/jar包/hbaselib" recursive="false" />
+  </library>
+</component>

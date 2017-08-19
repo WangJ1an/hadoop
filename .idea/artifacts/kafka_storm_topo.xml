@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kafka-storm-topo">
+    <output-path>$PROJECT_DIR$/out/artifacts/kafka_storm_topo</output-path>
+    <root id="archive" name="kafka-storm-topo.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>

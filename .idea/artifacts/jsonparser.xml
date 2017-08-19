@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jsonparser">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsonparser</output-path>
+    <root id="archive" name="jsonparser.jar">
+      <element id="module-output" name="hive" />
+    </root>
+  </artifact>
+</component>

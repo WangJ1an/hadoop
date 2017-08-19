@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kafkalib">
+    <CLASSES>
+      <root url="file://D:/王键/安装包/jar包/kafka_0.8.11_lib" />
+      <root url="jar://D:/王键/安装包/jar包/storm-kafka-0.9.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/王键/安装包/jar包/kafka_0.8.11_lib" recursive="false" />
+  </library>
+</component>

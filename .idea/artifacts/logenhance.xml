@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logenhance">
+    <output-path>$PROJECT_DIR$/out/artifacts/logenhance</output-path>
+    <root id="archive" name="logenhance.jar">
+      <element id="module-output" name="hadoop" />
+    </root>
+  </artifact>
+</component>
